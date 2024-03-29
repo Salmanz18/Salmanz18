@@ -2,7 +2,7 @@
 ## Hi 👋🏻
 I'm Salman Zafar, a Frontend Developer 👨🏻‍💻 Passionate about Web technologies.
 
-- 🖥 Tech Stack: JavaScript, React, Bootstrap, Material UI, Firebase, Node, Express, MongoDB.
+- 🖥 Tech Stack: TypeScript, JavaScript, React, Redux, Bootstrap, Material UI, Styled Components, TailwindCSS, Firebase, Node, Express, MongoDB.
 - 👻 I Love to Customize Everything.
 
 # You Can Contact Me Here!👇🏻
